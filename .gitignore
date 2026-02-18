@@ -16,3 +16,10 @@ venv/
 # Sistema operativo
 .DS_Store
 Thumbs.db
+
+
+.venv/
+data/raw/
+*.csv
+*.parquet
+__pycache__/
