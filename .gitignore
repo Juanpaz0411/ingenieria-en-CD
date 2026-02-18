@@ -1,24 +1,11 @@
 # Archivos temporales
 *.log
 *.tmp
-
-# Carpeta Python
-__pycache__/
-*.pyc
-
-# Entornos virtuales
+.venv/
 venv/
-
-# Configuración IDE
 .vscode/
 .idea/
-
-# Sistema operativo
+__pycache__/
+*.pyc
 .DS_Store
 Thumbs.db
-
-
-.venv/
-*.csv
-*.parquet
-__pycache__/
